@@ -2,8 +2,8 @@ Práctica de bases de datos con MySQL/MariaDB (XAMPP + phpMyAdmin). Modelo con d
 
 Cómo usarlo
 Iniciar Apache y MySQL en XAMPP.
-En phpMyAdmin, ejecutar 01_crear_tablas.sql.
-Ejecutar 02_insertar_datos.sql (una sola vez, para no duplicar datos).
+En phpMyAdmin, ejecutar 1_crear_tablas.sql.
+Ejecutar 2_insertar_datos.sql (una sola vez, para no duplicar datos).
 Probar las consultas de dia1.sql.
 Estructura de la base de datos
 entrenadores: id_entrenador (llave primaria), nombre, ciudad, edad, premios.
