@@ -18,3 +18,6 @@ Práctica de bases de datos con MySQL/MariaDB (XAMPP + phpMyAdmin). Modelo con d
 
 `CREATE TABLE`, llaves primarias y foráneas, `INSERT`, `SELECT`, `WHERE` y `ORDER BY`.
 
+## Qué practiqué en el día 2
+
+LIKE, operadores lógicos (OR), BETWEEN, LIMIT y DISTINCT.
