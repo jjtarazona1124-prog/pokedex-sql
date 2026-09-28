@@ -21,3 +21,7 @@ Práctica de bases de datos con MySQL/MariaDB (XAMPP + phpMyAdmin). Modelo con d
 ## Qué practiqué en el día 2
 
 LIKE, operadores lógicos (OR), BETWEEN, LIMIT y DISTINCT.
+
+## Qué practiqué en el día 3
+
+INNER JOIN, LEFT JOIN (en los dos sentidos) y alias de tablas y columnas con AS.
